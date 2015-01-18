@@ -18,7 +18,7 @@ sudo python setup.py install
 ```
 
 ### Requirements for GPS Scripts
-- A GPS module, and gpsc working properly
+- A GPS module, and cgps working properly
 ```shell
 apt-get install gpsd gpsd-clients
 ```
