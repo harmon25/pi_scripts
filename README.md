@@ -5,7 +5,8 @@ pi_scripts
 ## Requirements
 ### General for Raspberry
 ```shell
-apt-get install python git python-dev python-pip python-rpi.gpio 
+apt-get install python git python-dev python-pip 
+pip install python-rpi.gpio 
 ```
 
 ### General for Banana
